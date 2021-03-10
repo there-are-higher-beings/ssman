@@ -4,7 +4,7 @@ version = '1.0.0'
 print(
 	f"""
 	{name} {version}
-	Copyright (c) c:/#4617
+	Copyright (c) .wncry#4617
 	Licensed under the GNU AGPL 3.0
 	"""
 )
